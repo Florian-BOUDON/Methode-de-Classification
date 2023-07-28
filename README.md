@@ -53,4 +53,5 @@ Les méthodes de clustering, l'ACP, le scatter plot et la heatmap permettent de 
 En suivant ce projet, vous pourrez réaliser des analyses de marché approfondies basées sur des données réelles et prendre des décisions éclairées pour l'exportation de poulet en fonction des caractéristiques spécifiques de chaque pays.      
 Le traitement des données et la création de nouvelles variables pertinentes sont également inclus dans le projet pour améliorer la qualité de l'analyse exploratoire et des résultats de clustering. 
 
+********
 Ce projet fait partie de la formation data-anlyst par ENSAE Paris & Openclassrooms (certificat bac+4)
