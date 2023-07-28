@@ -34,7 +34,7 @@ scikit-learn
 matplotlib     
 seaborn     
 
-### Structure des Fichiers    
+### Structure des fichiers    
 
 ├── notebook.ipynb    
 ├── data     
