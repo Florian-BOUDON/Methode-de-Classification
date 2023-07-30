@@ -1,5 +1,5 @@
 # Étude de marché pour l'exportation de poulet
-## Méthode de clustering / Analyse non-supervisée
+## Méthodes de clustering / Analyses non-supervisées
 
 Ce projet présente une étude de marché basée sur trois tables Excel. L'entreprise qui mène cette étude est basée en France et souhaite exporter du poulet vers un ou plusieurs pays.    
 L'objectif principal de cette étude est d'utiliser des techniques statistiques non-supervisées pour sélectionner un pays ou un groupe de pays comme marché cible pour l'exportation de poulet.  Les principales méthodes utilisées dans cette étude sont le clustering (CAH et k-means), le scatter-plot, l'ACP (Analyse en Composantes Principales) avec une représentation graphique détaillée des clusters, et la heatmap.
